@@ -8,6 +8,7 @@
  
  나중에 시간 여유있을 때 계속 채워나갈 예정입니다...
  
+ <br><br>
  <div align=center>
   
  [![JangSeHun's github stats](https://github-readme-stats.vercel.app/api?username=westreed)](https://github.com/anuraghazra/github-readme-stats)
