@@ -1,7 +1,7 @@
 <h2 align=center>Tech Stack</h3>
 <br>
 <div align=center>
-  <img src="https://i.imgur.com/cUNOwp5.gif" />
+  <img src="https://i.imgur.com/hKyGQh5.gif" />
   <br>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
