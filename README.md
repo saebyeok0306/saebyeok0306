@@ -1,4 +1,4 @@
-<h2 align=center>Tech Stack</h3>
+<h1 align=center>Tech Stack</h1>
 <br>
 <div align=center>
   <img src="https://i.imgur.com/TKZSfly.gif" />
@@ -17,7 +17,7 @@
 </div>
 <br>
 <div align=center>
-  <h2>개발자를 꿈꾸는</h3>
+  <h1>개발자를 꿈꾸는</h1>
   <p>노력하는 개발자가 되기 위해 나아가는 중</p>
   <br>
   
