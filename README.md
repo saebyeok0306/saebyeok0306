@@ -18,6 +18,7 @@
 <br>
 <div align=center>
   <h1>개발자를 꿈꾸는</h1>
+  <a href="https://westreed.github.io/">갈대의 블로그</a>
   <p>노력하는 개발자가 되기 위해 나아가는 중</p>
   <br>
   
