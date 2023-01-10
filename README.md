@@ -17,10 +17,11 @@
 </div>
 <br>
 <div align=center>
-  <h1>개발자를 꿈꾸는</h1>
+  <h1>Intro</h1>
   <a href="https://westreed.github.io/">갈대의 블로그</a>
-  <p>노력하는 개발자가 되기 위해 나아가는 중</p>
+  <p>백엔드 개발자가 되기 위해 공부중입니다.</p>
   <br>
   
-  [![JangSeHun's github stats](https://github-readme-stats.vercel.app/api?username=westreed&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=westreed)](https://solved.ac/westreed)
 </div>
