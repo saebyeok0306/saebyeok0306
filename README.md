@@ -25,7 +25,7 @@
 
   <a href="https://westreed.github.io/">갈대의 블로그</a>
   <div>요즘에는 Spring 공부하고 있어요.</div>
-  <div>배워서 만드는 그 과정이 재밌어서 개발자하는 사람입니다.</div>
+  <div>배워서 만드는 그 과정이 재밌고 즐거운 개발자 지망생.</div>
   <div></div>
   <br>
   
