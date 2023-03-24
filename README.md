@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"><br><br>
 <br>
 
-  <div>블로그는 <a href="https://westreed.github.io/">여기</a>지만.. 이사를 위해 새롭게 개발중🤣</div>
+  <div>블로그는 <a href="https://blog.naver.com/westreed">여기</a>지만.. 이사를 위해 새롭게 개발중🤣</div>
   <div>요즘에는 Spring 공부하고 있어요.</div>
   <div>배워서 만드는 그 과정이 재밌고 즐거운 개발자 지망생.</div>
   <div></div>
