@@ -1,6 +1,6 @@
-<h1 align=center>Tech Stack</h1>
-<br>
 <div align=center>
+  <h1>Tech Stack</h1>
+  <br>
   <img src="https://i.imgur.com/TKZSfly.gif" />
   <br><br>
   
@@ -24,6 +24,15 @@
   <div>요즘에는 Spring 공부하고 있어요.</div>
   <div>배워서 만드는 그 과정이 재밌고 즐거운 개발자 지망생.</div>
   <div></div>
+  <br>
+  
+  <h1>공부 목표</h1>
+  <div>
+    <div>1. Docker</div>
+    <div>2. AWS</div>
+    <div>3. Kotlin-Spring</div>
+    <div>4. Kubernetes</div>
+  </div>
   <br>
   
   [![Solved.ac
