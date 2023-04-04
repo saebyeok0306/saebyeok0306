@@ -28,10 +28,11 @@
   
   <h1>공부 목표</h1>
   <div>
-    <div>1. Docker</div>
-    <div>2. AWS</div>
-    <div>3. Kotlin-Spring</div>
-    <div>4. Kubernetes</div>
+    <div>1. JWT</div>
+    <div>2. Docker</div>
+    <div>3. AWS</div>
+    <div>4. Kotlin-Spring</div>
+    <div>5. Kubernetes</div>
   </div>
   <br>
   
