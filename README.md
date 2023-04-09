@@ -26,16 +26,6 @@
   <div></div>
   <br>
   
-  <h1>공부 목표</h1>
-  <div>
-    <div>1. JWT</div>
-    <div>2. Docker</div>
-    <div>3. AWS</div>
-    <div>4. Kotlin-Spring</div>
-    <div>5. Kubernetes</div>
-  </div>
-  <br>
-  
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=westreed)](https://solved.ac/westreed)
 </div>
