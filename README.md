@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white">
+  <img src="https://img.shields.io/badge/JetBrainsIDE-000000?style=flat-square&logo=JetBrains&logoColor=white">
   <br><br>
 <br>
 
