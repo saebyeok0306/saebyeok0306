@@ -4,6 +4,7 @@
   <img src="https://i.imgur.com/TKZSfly.gif" />
   <br><br>
   
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwestreed%2Fwestreed&count_bg=%2356A9FF&title_bg=%234C4C4C&icon=xfce.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -16,8 +17,6 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwestreed%2Fwestreed&count_bg=%2356A9FF&title_bg=%23898989&icon=androidauto.svg&icon_color=%233349B7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br><br>
 <br>
 
