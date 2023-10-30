@@ -1,8 +1,8 @@
 <div align=center>
 
-  <h3>Jang SeHun</h3>
+  <h3>🦖Jang SeHun</h3>
   <div>SW 마에스트로 14기 과정을 열심히 달리는 중! 😎</div>
-  <div>배워서 만드는 그 과정이 재밌고 즐거운 개발자 지망생.</div>
+  <div>배워서 만드는 그 과정이 재밌고 즐거운 개발자.</div>
   <div></div>
   <br>
 
