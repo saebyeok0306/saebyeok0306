@@ -54,7 +54,7 @@
   [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=westreed&repo=ProgrammersAlgorithm&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=westreed&repo=ProgrammersAlgorithm">
   </picture>](https://github.com/westreed/ProgrammersAlgorithm)
-  [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=westreed&repo=SC-MusicQuizGame&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=westreed&repo=SC-MusicQuizGame">
-  </picture>](https://github.com/westreed/SC-MusicQuizGame)
+  [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=westreed&repo=DiscordBot&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=westreed&repo=DiscordBot">
+  </picture>](https://github.com/westreed/DiscordBot)
 </div>
