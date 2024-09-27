@@ -44,7 +44,10 @@
   ---
   
   <h3>🔗 My Project</h3>
-  
+
+  [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=westreed&repo=Devlog&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=westreed&repo=Devlog">
+  </picture>](https://github.com/westreed/Devlog)
   [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=SWM14-Architect&repo=moview-frontend&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=SWM14-Architect&repo=moview-frontend">
   </picture>](https://github.com/SWM14-Architect/moview-frontend)
