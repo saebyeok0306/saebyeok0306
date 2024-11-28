@@ -22,6 +22,7 @@
       <tr>
         <th>Language</th>
         <th>Tech Stack</th>
+        <th>ETC</th>
         <th>Prefered IDE & Tools</th>
       </tr>
     </thead>
@@ -45,7 +46,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="20px" align="center"> <b>ReactNative</b><br>
           <br>
           Backend<br>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" height="20px" align="center"> <b>Flask</b><br>
+          <img src="https://github.com/westreed/westreed/blob/main/icons/flask.svg" height="20px" align="center"> <b>Flask</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" height="20px" align="center"> <b>FastAPI</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="20px" align="center"> <b>SpringBoot</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="20px" align="center"> <b>SpringSecurity</b><br>
@@ -56,19 +57,21 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="20px" align="center"> <b>MongoDB</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" height="20px" align="center"> <b>Redis</b><br>
           <br>
-          Devops<br>
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-          <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
+        </td>
+        <td>
+          DevOps<br>
+          <img src="https://github.com/westreed/westreed/blob/main/icons/aws.svg" height="20px" align="center"> <b>Amazon AWS</b><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="20px" align="center"> <b>Google Cloud</b><br>
+          <img src="https://github.com/westreed/westreed/blob/main/icons/nginx.svg" height="20px" align="center"> <b>Nginx</b><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="20px" align="center"> <b>Docker</b><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" height="20px" align="center"> <b>Firebase</b><br>
           <br>
-          ETC<br>
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-          <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white">
-          <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white"/><br>
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+          Miscellaneous<br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="20px" align="center"> <b>Git</b><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" height="20px" align="center"> <b>GitHub Actions</b><br>
+          <img src="https://github.com/westreed/westreed/blob/main/icons/chatgpt.svg" height="20px" width="20px" align="center"> <b>ChatGPT</b><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="20px" align="center"> <b>Selenium</b><br>
+          <img src="https://github.com/westreed/westreed/blob/main/icons/discord.svg" height="20px" align="center"> <b>Discord.py</b><br>
         </td>
         <td>
           <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height="20px" align="center"> <b>PyCharm</b><br>
