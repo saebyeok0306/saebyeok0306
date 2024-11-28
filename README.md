@@ -85,4 +85,9 @@
       </tr>
     </tbody>
   </table>
+
+  ---
+
+  <h3>🔥Contact Me</h3>
+  <div><a href="mailto:sehun0306.dev@gmail.com">Email: sehun0306.dev@gmail.com</a></div>
 </div>
