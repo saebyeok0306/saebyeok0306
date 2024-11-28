@@ -36,6 +36,7 @@
          <br>
          Available Language<br>
          <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="20px" align="center"> <b>Kotlin</b><br>
+         <img src="https://github.com/westreed/westreed/blob/main/icons/database.svg" height="20px" align="center"> <b>SQL</b><br>
          <br>
          Learning Language<br/>
          - None
@@ -74,9 +75,12 @@
           <img src="https://github.com/westreed/westreed/blob/main/icons/discord.svg" height="20px" align="center"> <b>Discord.py</b><br>
         </td>
         <td>
+          IDE<br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height="20px" align="center"> <b>PyCharm</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height="20px" align="center"> <b>InteliJ IDEA</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="20px" align="center"> <b>VS Code</b><br>
+          <br>
+          Tools<br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" height="20px" align="center"> <b>PowerShell 7</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" height="20px" align="center"> <b>FileZilla</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="20px" align="center"> <b>Postman</b><br>
