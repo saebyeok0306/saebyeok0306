@@ -50,6 +50,7 @@
           <img src="https://github.com/westreed/westreed/blob/main/icons/flask.svg" height="20px" align="center"> <b>Flask</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" height="20px" align="center"> <b>FastAPI</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="20px" align="center"> <b>SpringBoot</b><br>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="20px" align="center"> <b>SpringJPA</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="20px" align="center"> <b>SpringSecurity</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="20px" align="center"> <b>SpringCloud</b><br>
           <br>
