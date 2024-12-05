@@ -28,7 +28,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>
+        <td valign="top">
          Major Language<br>
          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> <b>Python</b><br>
          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="20px" align="center"> <b>Java</b><br>
@@ -41,7 +41,7 @@
          Learning Language<br/>
          - None
          </td>
-        <td>
+        <td valign="top">
           Frontend<br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="20px" align="center"> <b>React</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="20px" align="center"> <b>ReactNative</b><br>
@@ -60,7 +60,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" height="20px" align="center"> <b>Redis</b><br>
           <br>
         </td>
-        <td>
+        <td valign="top">
           DevOps<br>
           <img src="https://github.com/westreed/westreed/blob/main/icons/aws.svg" height="20px" align="center"> <b>Amazon AWS</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="20px" align="center"> <b>Google Cloud</b><br>
@@ -75,7 +75,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="20px" align="center"> <b>Selenium</b><br>
           <img src="https://github.com/westreed/westreed/blob/main/icons/discord.svg" height="20px" align="center"> <b>Discord.py</b><br>
         </td>
-        <td>
+        <td valign="top">
           IDE<br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height="20px" align="center"> <b>PyCharm</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" height="20px" align="center"> <b>InteliJ IDEA</b><br>
