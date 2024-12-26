@@ -4,9 +4,9 @@
   <div>Hello, I am a developer who enjoys learning in various ways.<br>
   I happily work on developing the following list of items:<br><br>
   
-  －Web development<br>
+  －Web development (Mainly working in Backend)<br>
   －Bot development (e.g. Discord)<br>
-  －Application development (planned, maybe Electron? 😊)</div>
+  －Application development (Interested in Electron😊)</div>
   
   <br>
 
