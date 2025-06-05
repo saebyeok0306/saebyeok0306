@@ -1,16 +1,8 @@
 <div align=center>
 
   <h3>🦖Jang SeHun</h3>
-  <div>Hello, I am a developer who enjoys learning in various ways.<br>
-  I happily work on developing the following list of items:<br><br>
+  <div>Hi, I'm a developer who loves creating all kinds of things.<br>
   
-  －Web development (Mainly working in Backend)<br>
-  －Bot development (e.g. Discord)<br>
-  －Application development (Interested in Electron😊)</div>
-  
-  <br>
-
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwestreed%2Fwestreed&count_bg=%2356A9FF&title_bg=%234C4C4C&icon=xfce.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false" />
   <br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=westreed" />
 
@@ -33,13 +25,13 @@
          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> <b>Python</b><br>
          <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="20px" align="center"> <b>Java</b><br>
          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20px" align="center"> <b>JavaScript</b><br>
+         <img src="https://github.com/westreed/westreed/blob/main/icons/database.svg" height="20px" align="center"> <b>SQL</b><br>
          <br>
          Available Language<br>
          <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="20px" align="center"> <b>Kotlin</b><br>
-         <img src="https://github.com/westreed/westreed/blob/main/icons/database.svg" height="20px" align="center"> <b>SQL</b><br>
          <br>
          Learning Language<br/>
-         - None
+         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="20px" align="center"> <b>C#</b><br>
          </td>
         <td valign="top">
           Frontend<br>
