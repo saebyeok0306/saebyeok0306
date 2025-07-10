@@ -1,12 +1,5 @@
 <div align=center>
-
-  <h3>🦖Jang SeHun</h3>
-  <div>Hi, I'm a developer who loves creating all kinds of things.<br>
   
-  <br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=westreed" />
-
-
   ---
   <h3>🛠️Language & Developing</h3>
   <table>
