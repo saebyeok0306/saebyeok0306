@@ -1,5 +1,6 @@
 <div align=center>
-  
+
+  ![viewcount](https://view.devlog.run/api/badge/v1/repo/profile/saebyeok0306?icon=mug)
   ---
   <h3>🛠️Language & Developing</h3>
   <table>
