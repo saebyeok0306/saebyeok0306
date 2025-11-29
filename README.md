@@ -24,7 +24,7 @@
          <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="20px" align="center"> <b>Kotlin</b><br>
          <br>
          Learning Language<br/>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="20px" align="center"> <b>C#</b><br>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="20px" align="center"> <b>C# (for Unity)</b><br>
          </td>
         <td valign="top">
           Frontend<br>
@@ -43,6 +43,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="20px" align="center"> <b>MySQL</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="20px" align="center"> <b>MongoDB</b><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" height="20px" align="center"> <b>Redis</b><br>
+          <img src="https://github.com/saebyeok0306/saebyeok0306/blob/main/icons/img.png" height="20px" align="center"> <b>OracleDB</b><br>
           <br>
         </td>
         <td valign="top">
