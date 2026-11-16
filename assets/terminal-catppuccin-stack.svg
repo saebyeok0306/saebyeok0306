@@ -2,17 +2,12 @@
   <style>
     text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, "DejaVu Sans Mono", "Liberation Mono", Consolas, monospace; white-space: pre; font-size: 17px; }
     .big { font-size: 20px; }
-    .k { fill-opacity: 0; animation: k .01s var(--t) forwards; }
-    @keyframes k { to { fill-opacity: 1; } }
-    .show { opacity: 0; animation: show .01s var(--t) forwards; }
-    @keyframes show { to { opacity: 1; } }
     .cur { animation: blink 1s steps(1) infinite; }
     @keyframes blink { 50% { fill-opacity: 0; } }
     .glyph { animation: pulse 4s ease-in-out infinite; }
     @keyframes pulse { 0%, 100% { opacity: .22; } 50% { opacity: .42; } }
     @media (prefers-reduced-motion: reduce) {
       * { animation: none !important; }
-      .k { fill-opacity: 1; } .show { opacity: 1; }
     }
   </style>
   <defs>
@@ -38,27 +33,27 @@
 
     <rect x="12" y="44" width="1176" height="588" rx="12" fill="#1e1e2e" fill-opacity=".96" stroke="url(#border)" stroke-width="2.5"/>
 
-    <text class="big" x="40" y="90"><tspan fill="#89b4fa" font-weight="700">~ </tspan><tspan fill="#a6e3a1" font-weight="700">❯ </tspan><tspan fill="#cdd6f4"><tspan class="k" style="--t:0.50s">w</tspan><tspan class="k" style="--t:0.58s">h</tspan><tspan class="k" style="--t:0.66s">o</tspan><tspan class="k" style="--t:0.74s">a</tspan><tspan class="k" style="--t:0.82s">m</tspan><tspan class="k" style="--t:0.90s">i</tspan></tspan></text>
-    <text class="big show" style="--t:1.28s" x="40" y="124" fill="#bac2de">just someone who likes building things</text>
-    <text class="big show" style="--t:1.73s" x="40" y="158"><tspan fill="#89b4fa" font-weight="700">~ </tspan><tspan fill="#a6e3a1" font-weight="700">❯ </tspan><tspan fill="#cdd6f4"><tspan class="k" style="--t:2.08s">c</tspan><tspan class="k" style="--t:2.16s">a</tspan><tspan class="k" style="--t:2.24s">t</tspan><tspan class="k" style="--t:2.32s"> </tspan><tspan class="k" style="--t:2.40s">m</tspan><tspan class="k" style="--t:2.48s">o</tspan><tspan class="k" style="--t:2.56s">t</tspan><tspan class="k" style="--t:2.64s">t</tspan><tspan class="k" style="--t:2.72s">o</tspan><tspan class="k" style="--t:2.80s">.</tspan><tspan class="k" style="--t:2.88s">t</tspan><tspan class="k" style="--t:2.96s">x</tspan><tspan class="k" style="--t:3.04s">t</tspan></tspan></text>
-    <text class="big show" style="--t:3.42s" x="40" y="192" fill="#cba6f7">coffee → code → repeat</text>
-    <text class="big show" style="--t:3.87s" x="40" y="236"><tspan fill="#89b4fa" font-weight="700">~ </tspan><tspan fill="#a6e3a1" font-weight="700">❯ </tspan><tspan fill="#cdd6f4"><tspan class="k" style="--t:4.22s">t</tspan><tspan class="k" style="--t:4.30s">r</tspan><tspan class="k" style="--t:4.38s">e</tspan><tspan class="k" style="--t:4.46s">e</tspan><tspan class="k" style="--t:4.54s"> </tspan><tspan class="k" style="--t:4.62s">~</tspan><tspan class="k" style="--t:4.70s">/</tspan><tspan class="k" style="--t:4.78s">s</tspan><tspan class="k" style="--t:4.86s">t</tspan><tspan class="k" style="--t:4.94s">a</tspan><tspan class="k" style="--t:5.02s">c</tspan><tspan class="k" style="--t:5.10s">k</tspan></tspan></text>
+    <text class="big" x="40" y="90"><tspan fill="#89b4fa" font-weight="700">~ </tspan><tspan fill="#a6e3a1" font-weight="700">❯ </tspan><tspan fill="#cdd6f4">whoami</tspan></text>
+    <text class="big" x="40" y="124" fill="#bac2de">just someone who likes building things</text>
+    <text class="big" x="40" y="158"><tspan fill="#89b4fa" font-weight="700">~ </tspan><tspan fill="#a6e3a1" font-weight="700">❯ </tspan><tspan fill="#cdd6f4">cat motto.txt</tspan></text>
+    <text class="big" x="40" y="192" fill="#cba6f7">coffee → code → repeat</text>
+    <text class="big" x="40" y="236"><tspan fill="#89b4fa" font-weight="700">~ </tspan><tspan fill="#a6e3a1" font-weight="700">❯ </tspan><tspan fill="#cdd6f4">tree ~/stack</tspan></text>
 
-        <text class="show" style="--t:5.48s" x="40" y="267"><tspan fill="#89b4fa" font-weight="700">~/stack</tspan></text>
-    <text class="show" style="--t:5.54s" x="40" y="294"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">language/</tspan></text>
-    <text class="show" style="--t:5.60s" x="40" y="321"><tspan fill="#585b70">│   ├── </tspan><tspan fill="#94e2d5">major</tspan>       <tspan fill="#5a9fd4">●</tspan> <tspan fill="#cdd6f4">python</tspan>  <tspan fill="#f89820">●</tspan> <tspan fill="#cdd6f4">java</tspan>  <tspan fill="#f7df1e">●</tspan> <tspan fill="#cdd6f4">javascript</tspan>  <tspan fill="#89b4fa">●</tspan> <tspan fill="#cdd6f4">sql</tspan></text>
-    <text class="show" style="--t:5.66s" x="40" y="348"><tspan fill="#585b70">│   ├── </tspan><tspan fill="#94e2d5">available</tspan>   <tspan fill="#a97bff">●</tspan> <tspan fill="#cdd6f4">kotlin</tspan></text>
-    <text class="show" style="--t:5.72s" x="40" y="375"><tspan fill="#585b70">│   └── </tspan><tspan fill="#94e2d5">learning</tspan>    <tspan fill="#c77dbf">●</tspan> <tspan fill="#cdd6f4">c# (unity)</tspan></text>
-    <text class="show" style="--t:5.78s" x="40" y="402"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">frontend/</tspan>       <tspan fill="#61dafb">●</tspan> <tspan fill="#cdd6f4">react</tspan>  <tspan fill="#61dafb">●</tspan> <tspan fill="#cdd6f4">react-native</tspan></text>
-    <text class="show" style="--t:5.84s" x="40" y="429"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">backend/</tspan>        <tspan fill="#e6e9ef">●</tspan> <tspan fill="#cdd6f4">flask</tspan>  <tspan fill="#26b5a5">●</tspan> <tspan fill="#cdd6f4">fastapi</tspan>  <tspan fill="#6db33f">●</tspan> <tspan fill="#cdd6f4">spring-boot</tspan>  <tspan fill="#6db33f">●</tspan> <tspan fill="#cdd6f4">spring-jpa</tspan>  <tspan fill="#6db33f">●</tspan> <tspan fill="#cdd6f4">spring-security</tspan>  <tspan fill="#6db33f">●</tspan> <tspan fill="#cdd6f4">spring-cloud</tspan></text>
-    <text class="show" style="--t:5.90s" x="40" y="456"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">database/</tspan>       <tspan fill="#3fa9c4">●</tspan> <tspan fill="#cdd6f4">mysql</tspan>  <tspan fill="#47a248">●</tspan> <tspan fill="#cdd6f4">mongodb</tspan>  <tspan fill="#f05a4f">●</tspan> <tspan fill="#cdd6f4">redis</tspan>  <tspan fill="#f04d4d">●</tspan> <tspan fill="#cdd6f4">oracle-db</tspan></text>
-    <text class="show" style="--t:5.96s" x="40" y="483"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">devops/</tspan>         <tspan fill="#ff9900">●</tspan> <tspan fill="#cdd6f4">aws</tspan>  <tspan fill="#4285f4">●</tspan> <tspan fill="#cdd6f4">google-cloud</tspan>  <tspan fill="#2fbf5f">●</tspan> <tspan fill="#cdd6f4">nginx</tspan>  <tspan fill="#2496ed">●</tspan> <tspan fill="#cdd6f4">docker</tspan>  <tspan fill="#ffca28">●</tspan> <tspan fill="#cdd6f4">firebase</tspan></text>
-    <text class="show" style="--t:6.02s" x="40" y="510"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">misc/</tspan>           <tspan fill="#f05032">●</tspan> <tspan fill="#cdd6f4">git</tspan>  <tspan fill="#2088ff">●</tspan> <tspan fill="#cdd6f4">github-actions</tspan>  <tspan fill="#74aa9c">●</tspan> <tspan fill="#cdd6f4">chatgpt</tspan>  <tspan fill="#43b02a">●</tspan> <tspan fill="#cdd6f4">selenium</tspan>  <tspan fill="#7289da">●</tspan> <tspan fill="#cdd6f4">discord.py</tspan></text>
-    <text class="show" style="--t:6.08s" x="40" y="537"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">ide/</tspan>            <tspan fill="#21d789">●</tspan> <tspan fill="#cdd6f4">pycharm</tspan>  <tspan fill="#fe315d">●</tspan> <tspan fill="#cdd6f4">intellij-idea</tspan>  <tspan fill="#23a8f2">●</tspan> <tspan fill="#cdd6f4">vscode</tspan></text>
-    <text class="show" style="--t:6.14s" x="40" y="564"><tspan fill="#585b70">└── </tspan><tspan fill="#89b4fa" font-weight="700">tools/</tspan>          <tspan fill="#5391fe">●</tspan> <tspan fill="#cdd6f4">powershell-7</tspan>  <tspan fill="#e04848">●</tspan> <tspan fill="#cdd6f4">filezilla</tspan>  <tspan fill="#ff6c37">●</tspan> <tspan fill="#cdd6f4">postman</tspan>  <tspan fill="#a259ff">●</tspan> <tspan fill="#cdd6f4">figma</tspan></text>
+        <text x="40" y="267"><tspan fill="#89b4fa" font-weight="700">~/stack</tspan></text>
+    <text x="40" y="294"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">language/</tspan></text>
+    <text x="40" y="321"><tspan fill="#585b70">│   ├── </tspan><tspan fill="#94e2d5">major</tspan>       <tspan fill="#5a9fd4">●</tspan> <tspan fill="#cdd6f4">python</tspan>  <tspan fill="#f89820">●</tspan> <tspan fill="#cdd6f4">java</tspan>  <tspan fill="#f7df1e">●</tspan> <tspan fill="#cdd6f4">javascript</tspan>  <tspan fill="#89b4fa">●</tspan> <tspan fill="#cdd6f4">sql</tspan></text>
+    <text x="40" y="348"><tspan fill="#585b70">│   ├── </tspan><tspan fill="#94e2d5">available</tspan>   <tspan fill="#a97bff">●</tspan> <tspan fill="#cdd6f4">kotlin</tspan></text>
+    <text x="40" y="375"><tspan fill="#585b70">│   └── </tspan><tspan fill="#94e2d5">learning</tspan>    <tspan fill="#c77dbf">●</tspan> <tspan fill="#cdd6f4">c# (unity)</tspan></text>
+    <text x="40" y="402"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">frontend/</tspan>       <tspan fill="#61dafb">●</tspan> <tspan fill="#cdd6f4">react</tspan>  <tspan fill="#61dafb">●</tspan> <tspan fill="#cdd6f4">react-native</tspan></text>
+    <text x="40" y="429"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">backend/</tspan>        <tspan fill="#e6e9ef">●</tspan> <tspan fill="#cdd6f4">flask</tspan>  <tspan fill="#26b5a5">●</tspan> <tspan fill="#cdd6f4">fastapi</tspan>  <tspan fill="#6db33f">●</tspan> <tspan fill="#cdd6f4">spring-boot</tspan>  <tspan fill="#6db33f">●</tspan> <tspan fill="#cdd6f4">spring-jpa</tspan>  <tspan fill="#6db33f">●</tspan> <tspan fill="#cdd6f4">spring-security</tspan>  <tspan fill="#6db33f">●</tspan> <tspan fill="#cdd6f4">spring-cloud</tspan></text>
+    <text x="40" y="456"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">database/</tspan>       <tspan fill="#3fa9c4">●</tspan> <tspan fill="#cdd6f4">mysql</tspan>  <tspan fill="#47a248">●</tspan> <tspan fill="#cdd6f4">mongodb</tspan>  <tspan fill="#f05a4f">●</tspan> <tspan fill="#cdd6f4">redis</tspan>  <tspan fill="#f04d4d">●</tspan> <tspan fill="#cdd6f4">oracle-db</tspan></text>
+    <text x="40" y="483"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">devops/</tspan>         <tspan fill="#ff9900">●</tspan> <tspan fill="#cdd6f4">aws</tspan>  <tspan fill="#4285f4">●</tspan> <tspan fill="#cdd6f4">google-cloud</tspan>  <tspan fill="#2fbf5f">●</tspan> <tspan fill="#cdd6f4">nginx</tspan>  <tspan fill="#2496ed">●</tspan> <tspan fill="#cdd6f4">docker</tspan>  <tspan fill="#ffca28">●</tspan> <tspan fill="#cdd6f4">firebase</tspan></text>
+    <text x="40" y="510"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">misc/</tspan>           <tspan fill="#f05032">●</tspan> <tspan fill="#cdd6f4">git</tspan>  <tspan fill="#2088ff">●</tspan> <tspan fill="#cdd6f4">github-actions</tspan>  <tspan fill="#74aa9c">●</tspan> <tspan fill="#cdd6f4">chatgpt</tspan>  <tspan fill="#43b02a">●</tspan> <tspan fill="#cdd6f4">selenium</tspan>  <tspan fill="#7289da">●</tspan> <tspan fill="#cdd6f4">discord.py</tspan></text>
+    <text x="40" y="537"><tspan fill="#585b70">├── </tspan><tspan fill="#89b4fa" font-weight="700">ide/</tspan>            <tspan fill="#21d789">●</tspan> <tspan fill="#cdd6f4">pycharm</tspan>  <tspan fill="#fe315d">●</tspan> <tspan fill="#cdd6f4">intellij-idea</tspan>  <tspan fill="#23a8f2">●</tspan> <tspan fill="#cdd6f4">vscode</tspan></text>
+    <text x="40" y="564"><tspan fill="#585b70">└── </tspan><tspan fill="#89b4fa" font-weight="700">tools/</tspan>          <tspan fill="#5391fe">●</tspan> <tspan fill="#cdd6f4">powershell-7</tspan>  <tspan fill="#e04848">●</tspan> <tspan fill="#cdd6f4">filezilla</tspan>  <tspan fill="#ff6c37">●</tspan> <tspan fill="#cdd6f4">postman</tspan>  <tspan fill="#a259ff">●</tspan> <tspan fill="#cdd6f4">figma</tspan></text>
 
-    <text class="big show" style="--t:6.54s" x="40" y="604"><tspan fill="#89b4fa" font-weight="700">~ </tspan><tspan fill="#a6e3a1" font-weight="700">❯ </tspan><tspan class="cur" fill="#f5e0dc">█</tspan></text>
+    <text class="big" x="40" y="604"><tspan fill="#89b4fa" font-weight="700">~ </tspan><tspan fill="#a6e3a1" font-weight="700">❯ </tspan><tspan class="cur" fill="#f5e0dc">_</tspan></text>
 
-    <text class="glyph" x="1000" y="200" text-anchor="middle" style="font-size:130px;font-weight:700" fill="url(#gl)">&lt;/&gt;</text>
+    <text class="glyph" x="1000" y="200" text-anchor="middle" style="font-size:130px;font-weight:700;letter-spacing:-20px" fill="url(#gl)">&lt;/&gt;</text>
   </g>
 </svg>
